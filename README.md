@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrés Camilo Romero Ruiz  
 
-🎓 I'm a Systems Engineering student at **ICESI University** (graduating 2026-1).  
+🎓 I'm a Systems Engineering student at **ICESI University** (graduating 2026-2 August).  
 💡 A naturally curious person passionate about **software development, AI, data science, and automation**.  
 🌎 I speak both **Spanish** and **English**.  
 
