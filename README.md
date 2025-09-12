@@ -62,4 +62,3 @@
 ## 🌟 Goals  
 - Build more **end-to-end AI and data projects**.  
 - Deepen my knowledge in **MLOps and Data Engineering**.  
-- Contribute to **open-source AI/Data projects**.  
