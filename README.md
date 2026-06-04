@@ -40,4 +40,4 @@
 
 ## 🤝 Connect with Me  
 📬 Let's build something scalable together!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-camilo-romero-ruiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-camilo-romero-ruiz-9aaaaa2b3/)
